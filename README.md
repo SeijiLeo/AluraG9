@@ -15,5 +15,5 @@ Este repositório contém um notebook Jupyter com exercícios práticos para tre
 
 ## 📄 Arquivo
 
-- `Alura-G9.ipynb`: Notebook com os exercícios propostos e soluções comentadas.
+- `Alura_G9.ipynb`: Notebook com os exercícios propostos e soluções comentadas.
 
